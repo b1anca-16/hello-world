@@ -1,2 +1,3 @@
 Hello!
 Ich lerne gerade Git.
+tschüss
